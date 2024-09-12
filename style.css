@@ -61,7 +61,7 @@ body {
 }
 
 .container .box span i:nth-child(2) {
-  color: #c4c15c;
+  color: #d83030;
 }
 
 @keyframes animate {
@@ -70,7 +70,7 @@ body {
   }
 
   100% {
-    transform: perspective(50px) rotateX(360deg) rotate(5deg);
+    transform: perspective(50px) rotateX(60deg) rotate(5deg);
   }
 }
 
